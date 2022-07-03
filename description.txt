@@ -1,0 +1,44 @@
+﻿A collection of useful accessories. See below:
+
+-Wooden Frame: An easily available Early-Game item. Converts Defense into HP. Every 1 Defense grants 5 HP.
+-Hard Bulwark: Triples the user's Defense with the cost of applying Defense Weight. This defect becomes less severe the more Max HP the user possesses.
+-Hard Armor: Combined using the Hard Bulwark, Shackle and Wooden Frame. Bears the effects of the Hard Bulwark and Wooden Frame.
+-Blood Amulet: Moon Lord-tier item. Triples Max HP.
+
+
+-Update v0.2-
+-Reworked how the Wooden Frame, Hard Bulwark and Hard Armor function. They no longer provide any defense, but rather, multiply current defense.
+-Changed the way the Turtle Shield works. Instead of a static defense value upon certain health points, it is multiplied.
+
+-Update v0.3-
+-At its maximum potential, the Turtle Shield now dectuples your Defense.
+
+-Update v0.4-
+-Increased the threshold for the Turtle Shield from 75 to 200.
+-Added the HealthMultiplier item, an accessory that doubles your Max HP.
+-Modified the Beetle and Frozen Turtle shields.
+-Added the Reinforced Turtle Shield. It bears amplified effects of the Frozen Turtle Shield and Beetle Shield.
+-Changed the way the Wooden Frame works: Instead of multiplying Defense by 25%, it turns Defense into Health.
+-Reduced the Hard Armor's Defense Multiplication from 75% to 50%.
+-Reduced the Hard Bulwark's Defense Multiplication from 50% to 25%.
+-Integrated the Wooden Frame's ability into the Hard Armor.
+
+-Update v0.5-
+-Rebalanced some of the accessories.
+-The Blood Amplifier now triples Max HP instead of doubling it.
+-Removed the Reinforced Turtle Shield.
+-Changed the Health Amplifier's sprite to a rudimentary mix between 2 others. (Completely forgot that it was Calamity's Blood Pact. Property Theft isn't okay, so I'm changing it to a make-shift sprite for now until I'm able to make it something better.)
+-Changed the Health Amplifier's name from "Blood Amplifier" to "Blood Amulet".
+
+-Update v0.6-
+-Updated to tModLoader 1.4.
+-Separated the Shields of this mod into its own project titled "Shield Pack".
+-Updated the description.
+-Rebalanced some recipes.
+
+-Update v0.7-
+-Changed the behavior of the Hard Bulwark: It now triples Defense at the cost of applying Defense Weight to the player.
+-Rebalanced the recipes to align with the change above.
+
+-Update v0.8-
+-Fixed the calculation for the Hard Bulwark.

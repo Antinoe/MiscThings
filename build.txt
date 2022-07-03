@@ -1,0 +1,3 @@
+displayName = Misc Things
+author = Antinous
+version = 0.8
